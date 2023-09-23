@@ -1,1 +1,10 @@
-
+---
+title: "Multivariate time-series prediction using LSTM neural networks"
+collection: publications
+permalink: # /publication/2023-05-01
+excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2021-03-03
+venue: '2021 26th International Computer Conference, Computer Society of Iran (CSICC)'
+paperurl: 'https://doi.org/10.1109/CSICC52343.2021.9420543'
+citation: # 'Borna, K., & Ghanbari, R. (2023). A SELF-ADAPTIVE DEEP LEARNING-BASED MODEL TO PREDICT CLOUD WORKLOAD. Neural Network World, (3).'
+---
