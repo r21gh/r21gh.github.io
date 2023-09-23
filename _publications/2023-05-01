@@ -5,9 +5,7 @@ permalink: # /publication/2023-05-01
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-05-01
 venue: # 'Journal 1'
-paperurl: # 'https://doi.org/10.14311/nnw.2023.33.010'
-citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://doi.org/10.14311/nnw.2023.33.010'
+citation: 'Borna, K., & Ghanbari, R. (2023). A SELF-ADAPTIVE DEEP LEARNING-BASED MODEL TO PREDICT CLOUD WORKLOAD. Neural Network World, (3).'
 ---
-[View paper](https://doi.org/10.14311/nnw.2023.33.010)
 
-Recommended citation: Borna, K., & Ghanbari, R. (2023). A SELF-ADAPTIVE DEEP LEARNING-BASED MODEL TO PREDICT CLOUD WORKLOAD. Neural Network World, (3).
