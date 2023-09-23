@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Reza Ghanbari is a Ph.D. Candidate in Computer Security"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
