@@ -6,8 +6,5 @@ excerpt: # 'This paper is about the number 2. The number 3 is left for future wo
 date: 2023-09-23
 venue: # 'Journal 1'
 paperurl: 'https://doi.org/10.1109/MN55117.2022.9887643'
-citation: # 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'A. Brighente, M. Conti, G. Kumar, R. Ghanbari and R. Saha, "Stopping Floods with Buckets: Attack and Countermeasure for IOTA Autopeering," 2022 IEEE International Symposium on Measurements & Networking (M&N), Padua, Italy, 2022, pp. 1-6, doi: 10.1109/MN55117.2022.9887643.'
 ---
-
-[View paper](https://doi.org/10.14311/nnw.2023.33.010)
-Recommended citation: A. Brighente, M. Conti, G. Kumar, R. Ghanbari and R. Saha, "Stopping Floods with Buckets: Attack and Countermeasure for IOTA Autopeering," 2022 IEEE International Symposium on Measurements & Networking (M&N), Padua, Italy, 2022, pp. 1-6, doi: 10.1109/MN55117.2022.9887643.
