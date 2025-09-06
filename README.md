@@ -29,4 +29,4 @@
 
 ---
 
-&copy; 2025 Reza Ghanbari. Built for systems, cloud, and high-performance applications.
+&copy; 2025 Reza Ghanbari. 
