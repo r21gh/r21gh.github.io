@@ -25,7 +25,6 @@
 
 ## Contact
 
-- **Email:** [ghanbari.reza94@gmail.com](mailto:ghanbari.reza94@gmail.com)  
 - **GitHub:** [github.com/r21gh](https://github.com/r21gh)  
 
 ---
