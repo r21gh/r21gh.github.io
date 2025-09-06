@@ -1,6 +1,5 @@
 # Reza Ghanbari
 
-**Systems Programming | Kernel & eBPF | Cloud Architecture | Infrastructure Automation | Networking & Observability**
 
 ---
 
